@@ -34,4 +34,4 @@
 # Link To Finished Product
 
     The link to view this finished project can be found here:
-[page link](https://marisahanna.github.io/refactor-wk1/)
+[https://marisahanna.github.io/refactor-wk1/](https://marisahanna.github.io/refactor-wk1/)
