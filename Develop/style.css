@@ -1,0 +1,156 @@
+ 
+ /* selector to reset the way a browser loads the page */
+ * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* This is the background color */
+body {
+    background-color: #d9dcd6;
+}
+
+/* selector that defines the properties of the main element */
+main {
+    padding:0%;
+}
+
+/* selector that defines the paraghraph font size */
+p {
+    font-size: 16px;
+}
+
+/* selector for the hyperlink font color */
+a {
+    color: #ffffff;
+    text-decoration: none;
+} 
+
+/* selector for main header properties */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* selctor for div tags inside the header */
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* selector that defines header text properties */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* selector that defines the SEO text color change */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* selector that defines list item properties inside the header */
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* selector that defines the properties of the background image on the webpage */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* selector that defines properties of the first block containing the seo text info */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* selector that defines all the properties of the inside content containing the seo, online reputation management, and social media marketing info */
+.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* selector that defines the max height property for the reputation management, search enigine optimization, and social media marketing images */
+.online-reputation-management img,.search-engine-optimization img, .social-media-marketing img {
+    max-height: 200px; 
+}
+
+/* selector that defines the properties of the Search engine optimization, online reputation management, and the social media marketing text */
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2  {
+        margin-bottom: 20px;
+        font-size: 36px;
+}           
+
+/* selector that moves the search engine optimization image to the left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* selector that moves the online reputation management image to the right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+    
+}
+
+/* selector that defines the properties for the aside box describing the three key benefits */
+aside {
+    margin-right: 20px;
+    padding: 37px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* selector that defines the properties of the lead generation, benefit brand, and benefit cost paragraphs in the aside box */
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* selector that defines the properties of the lead generation, benefit brand text, and the benefit cost text in the aside box */
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* selector that defines the properties for the lead generation, benefit brand, and the benefit cost images in the aside box */
+.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* selector that defines the footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* selector that defines the text property size inside the footer */
+.footer h2 {
+    font-size: 20px;
+}
