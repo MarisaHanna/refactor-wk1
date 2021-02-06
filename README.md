@@ -1,6 +1,6 @@
 # Week One Homework Assignment- Code Refactor
 
-** Version 1.0 **
+
 
 
 
