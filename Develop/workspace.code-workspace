@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "refactor-wk1",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../week1/images"
+		}
+	],
+	"settings": {}
+}
