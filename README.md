@@ -12,10 +12,10 @@
 # Images
 
 
-<img scr="./images/html-before.png.png" width= 200/> 
-<img scr="./images/html-after.png" width= 200/>
-<img scr="./images/css-before.png" width= 200/> 
-<img scr="./images/css-after.png" width= 200/>
+<img scr="./images/html-before.png.png" width= 200> 
+<img scr="./images/html-after.png" width= 200>
+<img scr="./images/css-before.png" width= 200> 
+<img scr="./images/css-after.png" width= 200>
 
 
 
@@ -33,4 +33,4 @@
 # Link To Finished Product
 
     The link to view this finished project can be found here:
-<link href=""/>
+<link href="https://marisahanna.github.io/refactor-wk1/">
