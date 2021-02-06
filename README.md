@@ -13,13 +13,10 @@
 
 
 ![screenshot](images/html-before.png)
-![screenshot](../html-after.png)
-![screenshot](../css-before.png)
-![screenshot](/css-after.png)
-<img scr="./images/html-before.png" width= 200> 
-<img scr="./images/html-after.png" width= 200>
-<img scr="./images/css-before.png" width= 200> 
-<img scr="./images/css-after.png" width= 200>
+![screenshot](images/html-after.png)
+![screenshot](images/css-before.png)
+![screenshot](images/css-after.png)
+
 
 
 
