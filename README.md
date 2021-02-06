@@ -12,10 +12,10 @@
 # Images
 
 
-<img scr="../images/html-before.png.png" width= 200/> 
-<img scr="../images/html-after.png" width= 200/>
-<img scr="../images/css-before.png" width= 200/> 
-<img scr="../images/css-after.png" width= 200/>
+<img scr="./images/html-before.png.png" width= 200/> 
+<img scr="./images/html-after.png" width= 200/>
+<img scr="./images/css-before.png" width= 200/> 
+<img scr="./images/css-after.png" width= 200/>
 
 
 
